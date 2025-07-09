@@ -8,6 +8,6 @@
 
 I'm a Systems Administrator with a passion for my work.
 
-Outside of tech, I read Fantasy and Sci Fi.
+Outside of tech, I read Fantasy and Sci-Fi.
 
 ---
